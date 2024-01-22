@@ -25,7 +25,7 @@ Unique Clauses: Employee salaries are determined based on unique clauses corresp
 Expansion: Easily add new stores to the mall, ensuring continuous growth and variety.
 Employee Addition: Seamlessly integrate new employees as the mall evolves.
 
-# Customer Interaction - 
+## Customer Interaction - 
 
 Shopping Experience: As visitors come to the mall, they have the opportunity to explore stores, purchase products, and enjoy discounts.
 Special Discounts: The mall provides special discounts to various stores based on their nature, enhancing the overall shopping experience.
